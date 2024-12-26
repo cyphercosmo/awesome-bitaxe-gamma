@@ -8,7 +8,7 @@ First and foremost, thank you [@Skot](https://github.com/skot) for blessing us w
 
 This repository contains a community-curated list of everything related to [BitAxe Gamma](https://github.com/skot/bitaxeGamma) and its ecosystem.
 
-If you wish to add something feel free to create a PR.
+Got a question or suggestion? Please open an issue and we'll discuss it. If you wish to add something feel free to create a PR.
 
 # Learning resources
 - [What is a BitAxe?](https://www.youtube.com/watch?v=HU3VIdFM6TA)
