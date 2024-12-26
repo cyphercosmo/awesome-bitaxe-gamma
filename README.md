@@ -1,4 +1,4 @@
-This repository contains a community-curated list of everything related to BitAxe Gamma and its ecosystem. If you wish to add something please create and PR.
+This repository contains a community-curated list of everything related to BitAxe Gamma and its ecosystem. If you wish to add something please create a PR.
 
 # Learning resources
 - [What is a BitAxe?](https://www.youtube.com/watch?v=HU3VIdFM6TA)
