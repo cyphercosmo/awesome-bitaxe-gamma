@@ -1,4 +1,14 @@
-This repository contains a community-curated list of everything related to BitAxe Gamma and its ecosystem. If you wish to add something please create a PR.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a358dd0d-3c31-419b-beb7-f600bb221962"/>
+</div>
+
+## Welcome to awesome BitAxe Gamma! ⛏️
+
+First and foremost, thank you [@Skot](https://github.com/skot) for blessing us with this technology, I imagine there's a bunch more people who deserve credit I just unfortunately don't know their name. If you wish to build your own BitAxe Gamma please refer to [BitAxe Gamma's repo](https://github.com/skot/bitaxeGamma), or if you want to buy one you can just use one of the [Bitaxe Legit™](https://bitaxe.org/legit.html) network of companies selling the rig.
+
+This repository contains a community-curated list of everything related to [BitAxe Gamma](https://github.com/skot/bitaxeGamma) and its ecosystem.
+
+If you wish to add something feel free to create a PR.
 
 # Learning resources
 - [What is a BitAxe?](https://www.youtube.com/watch?v=HU3VIdFM6TA)
