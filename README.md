@@ -19,6 +19,7 @@ Got a question or suggestion? Please open an issue and we'll discuss it. If you 
 - [Upgraded Bitaxe Power Supply for Multiple Bitaxes](https://www.youtube.com/watch?v=hdeLD3GTb5A)
 - [Bitaxe: How to Replace Thermal Paste](https://www.youtube.com/watch?v=vkcxQP96MpY)
 - [Bitaxe Gamma Overheating Issues Solved](https://www.youtube.com/shorts/tHYgXdAHAV8)
+- [Peak BitAxe experience - How to bend the odds to your liking](https://youtu.be/9b328GiJrQM?si=auZ2Jth1gcUjRr-d&t=3160)
 
 # Accessories and parts
 -  [NF-A4x20: a silent and powerful fan](https://noctua.at/en/nf-a4x20-flx)
