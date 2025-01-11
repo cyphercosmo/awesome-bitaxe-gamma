@@ -21,6 +21,7 @@ Got a question or suggestion? Please open an issue and we'll discuss it. If you 
 - [Bitaxe Gamma Overheating Issues Solved](https://www.youtube.com/shorts/tHYgXdAHAV8)
 - [Peak BitAxe experience - How to bend the odds to your liking](https://youtu.be/9b328GiJrQM?si=auZ2Jth1gcUjRr-d&t=3160)
 - [What are these shares I found while pool mining?](https://www.reddit.com/r/BitcoinMining/comments/u4e977/solo_mining_questions_solo_ckpool/)
+- [A discussion on extreme overclocking the Gamma](https://x.com/trendkraft/status/1858875304988557625)
 
 # Accessories and parts
 -  [NF-A4x20: a silent and powerful fan](https://noctua.at/en/nf-a4x20-flx)
