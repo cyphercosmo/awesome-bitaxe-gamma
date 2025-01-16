@@ -29,7 +29,6 @@ Got a question or suggestion? Please open an issue and we'll discuss it. If you 
 -  [An adapter for the 52pi ice tower cooler to fit the Gamma](https://www.thingiverse.com/thing:6861518)
 -  [A simple stand for the gamma](https://www.thingiverse.com/thing:6872918)
 -  [A collection of 3D prints that apply to the gamma and other models as well](https://github.com/bitaxeorg/bitaxe-3d-prints)
--  [BitHalo, an addon board to make your Gamma shine when a share/block is found](https://github.com/IamGPIO/BitHalo-201-204-Bitaxe)
 
 # Mining pools
 - [Public Pool - solo mining pool with zero fees](https://web.public-pool.io)
